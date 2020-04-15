@@ -1,0 +1,1 @@
+window.location.replace("http://smile.amazon.com" + window.location.pathname + window.location.search + window.location.hash);
